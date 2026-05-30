@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maharana_akash
 - 👀 I’m interested in - Arduino and ESP32, RasberryPi, Robotics, VLSI, IoT, PCB designing
-- 🌱 I’m currently learning - "VLSI design" 
+- 🌱 I’m currently learning - "VLSI design"
+- Currently Pursuing B-TECH at Veer Surendra Sai University of Technology, Burla.
 - 📫 How to reach me : Instagram - _maharana_akash_
                         Linked In - www.linkedin.com/in/akash121006
 
