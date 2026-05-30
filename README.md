@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @PUNISHER1006
-- 👀 I’m interested in - "Robotics & Automation"
-- 🌱 I’m currently learning - "Arduino" 
-- 📫 How to reach me : Insta - maharana_akash_040406
+- 👋 Hi, I’m @maharana_akash
+- 👀 I’m interested in - Arduino and ESP32, RasberryPi, Robotics, VLSI, IoT, PCB designing
+- 🌱 I’m currently learning - "VLSI design" 
+- 📫 How to reach me : Instagram - _maharana_akash_
+                        Linked In - www.linkedin.com/in/akash121006
+
 
 <!---
 PUNISHER1006/PUNISHER1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
